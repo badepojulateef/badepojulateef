@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://github.com/badepojulateef">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NabeelahY&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badepojulateef&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badepojulateef&layout=compact&hide=html,css&langs_count=10&theme=react&count_private=true"/>
 </a>
 </p>
