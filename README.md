@@ -2,10 +2,9 @@
 
 ## About Me
 
--   💻 Got into tech because of its wide variety of things to learn and my unsatiable curiousity
--   🧕🏽 ALX Software Engineering & Cloud Development student
+-   🌱 ALX Software Engineering & Cloud Development student
 -   🌱 Currently learning data structures and algorithms
--   👯‍♀️ Feel free to reach out if you need a peer programmer to learn algorithms or to collaborate on interesting projects
+-   🌱 Feel free to reach out if you need a peer programmer to learn algorithms or to collaborate on interesting projects
 
 ## GitHub Ramblings
 
