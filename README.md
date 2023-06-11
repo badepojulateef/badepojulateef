@@ -1,5 +1,7 @@
 # Hi there 👋🏾
 
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Heeyooo heeyooo!Welcome+To+My+Profile;My+Name+Is+Lateef+Adepoju;I+Am+A +Software+Engineer+with+three+years+of+experience;I+Learn+By+Practicing-Coding)](https://git.io/typing-svg)
+
 ## About Me
 
 -   🌱 ALX Software Engineering & Cloud Development student
